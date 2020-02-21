@@ -1,15 +1,14 @@
 module.exports = {
   theme: {
     fontFamily: {
-      display: ['Source Sans Pro', 'sans-serif'],
-      body: ['Martel Sans', 'sans-serif'],
+      display: ['Poppins', 'sans-serif'],
+      body: ['Open Sans', 'sans-serif'],
     },
     extend: {
       colors: {
-        orange: '#e95527',
-        bluedark: '#2364aa',
-        blue: '#3da5d9',
-        yellow: '#fec601'
+        black: '#171219',
+        green: '#225560',
+        yellow: '#edf060'
       }
     }
   },
